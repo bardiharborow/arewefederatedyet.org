@@ -1,0 +1,14 @@
+{
+  "name": "arewefederatedyet.org",
+  "version": "0.0.0",
+  "private": true,
+  "description": "arewefederatedyet.org",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "versions:upload": "wrangler versions upload"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
